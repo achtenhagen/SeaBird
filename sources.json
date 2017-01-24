@@ -1,0 +1,52 @@
+[
+    {
+        "scenes": "main",
+        "source": "app/assistants/main-assistant.js"
+    },
+    {
+        "scenes": "help",
+        "source": "app/assistants/help-assistant.js"
+    },
+    {"source": "app/assistants/app-assistant.js"},
+    {"source": "app/assistants/stage-assistant.js"},
+    {
+        "scenes": "preferences",
+        "source": "app/assistants/preferences-assistant.js"
+    },
+    {
+        "scenes": "addFeed",
+        "source": "app/assistants/addFeed-assistant.js"
+    },
+    {
+        "scenes": "storyList",
+        "source": "app/assistants/storyList-assistant.js"
+    },
+    {
+        "scenes": "story",
+        "source": "app/assistants/story-assistant.js"
+    },
+    {
+        "scenes": "live",
+        "source": "app/assistants/live-assistant.js"
+    },
+    {
+        "scenes": "category",
+        "source": "app/assistants/category-assistant.js"
+    },
+    {
+        "scenes": "flow",
+        "source": "app/assistants/flow-assistant.js"
+    },
+    {
+        "scenes": "exhibition",
+        "source": "app/assistants/exhibition-assistant.js"
+    },
+    {
+        "scenes": "dashboard",
+        "source": "app/assistants/dashboard-assistant.js"
+    },
+    {
+        "scenes": "popup-alert",
+        "source": "app/assistants/popup-alert-assistant.js"
+    }
+]

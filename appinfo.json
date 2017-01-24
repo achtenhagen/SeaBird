@@ -1,0 +1,13 @@
+{
+	"id": "com.fioware.seabird3",
+	"version": "3.1.0",
+	"vendor": "Fioware",
+	"type": "web",
+	"main": "index.html",
+	"title": "Sea Bird 3",
+	"icon": "icon-hd.png",
+	"noWindow" : true,
+	"dockMode": true,
+	"touchstoneMode": "enabled",
+	"uiRevision": 2
+}
